@@ -31,6 +31,9 @@
 ### 푸터
 - footer.md
 
+### 테스트
+- test.md
+
 ### 서치
 - search.md
 
