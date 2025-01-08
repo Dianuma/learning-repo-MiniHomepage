@@ -33,3 +33,9 @@
 
 ### 테스트
 - test.md
+
+### 서치
+- search.md
+
+### 사이드바
+- sidebar.md
