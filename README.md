@@ -30,3 +30,6 @@
 
 ### 푸터
 - footer.md
+
+### 서치
+- search.md
