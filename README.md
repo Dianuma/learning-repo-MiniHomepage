@@ -27,3 +27,6 @@
 
 ### 내비게이션
 - navigation.md 추가
+
+### 푸터
+- footer.md
